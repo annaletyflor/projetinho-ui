@@ -1,0 +1,107 @@
+.agua {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.agua img {
+  position: relative;
+  height: 100vh;
+  width: 95em;
+  overflow: hidden;
+}
+.sunday {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.sobre img {
+  position: relative;
+  overflow: hidden;
+  width: 95em;
+  height: 30em;
+  z-index: -1;
+}
+
+.icontext {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.icontext img {
+  width: 50px;
+  height: 50px;
+  margin: 0;
+  margin-top: -50em;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.titulo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0;
+  margin-top: -24em;
+  text-align: center;
+  text-align: center;
+}
+
+.texto {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 30px;
+}
+
+.texto p {
+  width: 15em;
+  margin: 0;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.alinha {
+  display: flex;
+}
+.pri {
+  display: flex;
+  width: 15em;
+  margin: 0;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.sec {
+  display: flex;
+  width: 15em;
+  margin: 0;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.tre {
+  display: flex;
+  width: 15em;
+  margin: 0;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.alinha img {
+  width: 5px;
+  height: 5px;
+}

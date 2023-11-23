@@ -1,0 +1,22 @@
+.nave {
+  background-color: #1e1e1e;
+  width: 100%;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nave button:nth-of-type(1) {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  left: 4.4em;
+  color: white;
+  font-size: 20px;
+}
+.nave button:nth-of-type(2) {
+  color: white;
+}
+.nave button:nth-of-type(3) {
+  color: #f36;
+}
